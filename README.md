@@ -6,41 +6,35 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Olá!👋 Sou o Sandro professor e estudante de programação.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente to me formando em Engenharia da Computação na Universidade Cruzeiro do sul <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou em busca de um primeiro emprego dentro na área de programação e desenvolvimento.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Tenho 32 anos, comecei a estuda programação em 2022 porém só conteúdo teórico, minha primeira experiência de fato com programação foi em 2023, quando me tornei professor e comecei a lessionar aulas sobre programação, meu inglês é intermediário, atualmente além da faculdade estudo: python,SQL,AWS,React e já utilizo: HTML,CSS,JAVASCRIPT,C#,POWERBI e VBA.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ No meu tempo livre gosto muito de games então costumo mais ficar em casa, leio livros também sobre investigação criminal e afins, boardgames no geral, mais geralmente com o foco em RPG são os que mais gosto ^^.
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negan.fiuren/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-de-souza-firminoti/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/negan.fiuren/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![fiurensan GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="()" alt="Imagem">
 </p>
 
 ## 🔥 Skills
