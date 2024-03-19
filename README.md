@@ -33,9 +33,7 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="(/assets/img/Mario.gif)" alt="Imagem">
-</p>
+(https://github.com/FiurenSan/fiurensan/assets/162381436/4d682a14-8ea7-44af-beb7-36bf544d9157)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
