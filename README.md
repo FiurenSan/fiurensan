@@ -34,7 +34,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="()" alt="Imagem">
+  <img align="center" src="(/assets/img/Mario.gif)" alt="Imagem">
 </p>
 
 ## 🔥 Skills
