@@ -9,7 +9,7 @@
 <p>
   Olá!👋 Sou o Sandro professor e estudante de programação.
 
-  - 🌱 Atualmente to me formando em Engenharia da Computação na Universidade Cruzeiro do sul <img align="center" alt="Cruzeiro do Sul" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente to me formando em Engenharia da Computação na Universidade Cruzeiro do sul 
 
   - 🔭 Estou em busca de um primeiro emprego dentro na área de programação e desenvolvimento.
 </p>
