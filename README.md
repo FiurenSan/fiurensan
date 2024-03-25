@@ -41,8 +41,7 @@
 <!-- GithubStats -->
 ![fiurensan GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
- <img align="right" height="100" width="100" src="">
-<!-- Portfolio -->
+ <!-- Portfolio -->
 
 <!-- GIF -->
 ![Mario](https://github.com/FiurenSan/fiurensan/assets/162381436/28aae85a-52df-43aa-9bbe-8a2c4e9ea42a)
