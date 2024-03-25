@@ -33,7 +33,7 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
-
+![Mario](https://github.com/FiurenSan/fiurensan/assets/162381436/28aae85a-52df-43aa-9bbe-8a2c4e9ea42a)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
